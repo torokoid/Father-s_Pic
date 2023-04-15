@@ -110,7 +110,7 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
 
-<p align="left"> <img src="QR_ohanami.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="Fpic.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
@@ -128,9 +128,9 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 	
-<h2><span class="snow">2023/04/01, 鬼怒川河川敷公園でお花見しました。</span></h2>
+<h2><span class="snow">2023/04/15, 父の作品を一気に画像キャプチャー。</span></h2>
 
-<h2><span class="blue">風が吹くと桜吹雪が舞いました。</span></h2>
+<h2><span class="blue">作品の色は未だ鮮やかです。</span></h2>
 <a href="IMG_7217.JPG" data-lightbox="abc"><img src="IMG_7217.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7218.JPG" data-lightbox="abc"><img src="IMG_7218.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7219.JPG" data-lightbox="abc"><img src="IMG_7219.JPG" alt="サンプル画像" width="900" /></a>
