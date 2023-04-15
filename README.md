@@ -118,7 +118,7 @@ a.p:hover span {
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
-<h1><span class="blue">掲載概要</span></h1>
+<h1><span class="snow">掲載概要</span></h1>
 <div class="yellow"> 
 <h1>父、羽田 忍が生前に描いた絵画を画像キャプチャー。<br>
 2006年6月2日の命日から17年余りを経過していますが、<br>
@@ -130,7 +130,7 @@ a.p:hover span {
 	
 <h2><span class="snow">2023/04/15, 父の作品を一気に画像キャプチャー。</span></h2>
 
-<h2><span class="blue">作品の色は未だ鮮やかです。</span></h2>
+<h2><span class="snow">作品の色は未だ鮮やかです。</span></h2>
 <a href="IMG_7217.JPG" data-lightbox="abc"><img src="IMG_7217.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7218.JPG" data-lightbox="abc"><img src="IMG_7218.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7219.JPG" data-lightbox="abc"><img src="IMG_7219.JPG" alt="サンプル画像" width="900" /></a>
@@ -145,6 +145,7 @@ a.p:hover span {
 <a href="IMG_7228.JPG" data-lightbox="abc"><img src="IMG_7228.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7229.JPG" data-lightbox="abc"><img src="IMG_7229.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7230.JPG" data-lightbox="abc"><img src="IMG_7230.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="snow">背景画像はこちら。</span></h2>
 <a href="IMG_7231.JPG" data-lightbox="abc"><img src="IMG_7231.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7232.JPG" data-lightbox="abc"><img src="IMG_7232.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7233.JPG" data-lightbox="abc"><img src="IMG_7233.JPG" alt="サンプル画像" width="900" /></a>
