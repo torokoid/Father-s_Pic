@@ -135,7 +135,7 @@ a.p:hover span {
 <a href="IMG_7218.JPG" data-lightbox="abc"><img src="IMG_7218.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7219.JPG" data-lightbox="abc"><img src="IMG_7219.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7220.JPG" data-lightbox="abc"><img src="IMG_7220.JPG" alt="サンプル画像" width="900" /></a>
-<a href="IMG_7221.JPG" data-lightbox="abc"><img src="IMG_7221.JPG" alt="サンプル画像" width="900" /></a>
+
 <a href="IMG_7222.JPG" data-lightbox="abc"><img src="IMG_7222.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7223.JPG" data-lightbox="abc"><img src="IMG_7223.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7224.JPG" data-lightbox="abc"><img src="IMG_7224.JPG" alt="サンプル画像" width="900" /></a>
