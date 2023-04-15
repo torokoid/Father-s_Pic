@@ -166,11 +166,11 @@ a.p:hover span {
 <a href="IMG_7248.JPG" data-lightbox="abc"><img src="IMG_7248.JPG" alt="サンプル画像" width="900" /></a>
 <a href="IMG_7249.JPG" data-lightbox="abc"><img src="IMG_7249.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br>	
-
+<!--
 <br>
 <h2><span class="snow">おまけ：この春のお花見。</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HiS5SZgmNLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-	
+
 <!--
 <iframe width="560" height="315" src="https://youtube.com/shorts/uXd21wT0jJ4?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
